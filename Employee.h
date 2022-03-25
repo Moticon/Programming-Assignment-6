@@ -7,7 +7,7 @@
 // Make sure you use the 
 class Employee {
 private:
-	Date test; 
+	
 public:
 	Employee();
 };
